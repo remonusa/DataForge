@@ -8,7 +8,7 @@ setup(
     description='A Python library for data manipulation and file operations',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url=' https://github.com/remonusa/DataForge',
+    url='https://github.com/remonusa/DataForge',
     packages=find_packages(),
     install_requires=[
         'pandas',

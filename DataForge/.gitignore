@@ -1,7 +1,8 @@
 # my ignore list 
 
 update_git_repo.ps1
-
+LibraryArchive.txt
+.gitignore
 
 
 
