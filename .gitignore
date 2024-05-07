@@ -5,6 +5,9 @@ CreateLibrary.py
 __pycache__/
 *.py[cod]
 *$py.class
+.gitignore
+.gitattributes
+update_git_repo.ps1
 
 
 #
