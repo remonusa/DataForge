@@ -8,7 +8,7 @@ __pycache__/
 .gitignore
 .gitattributes
 update_git_repo.ps1
-
+DataForge.egg-info/
 
 #
 
