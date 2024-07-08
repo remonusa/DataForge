@@ -1,0 +1,11 @@
+README.md
+setup.py
+DataForge/__init__.py
+DataForge/dataframe_ops.py
+DataForge/file_ops.py
+DataForge.egg-info/PKG-INFO
+DataForge.egg-info/SOURCES.txt
+DataForge.egg-info/dependency_links.txt
+DataForge.egg-info/requires.txt
+DataForge.egg-info/top_level.txt
+tests/__init__.py

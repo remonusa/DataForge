@@ -1,8 +1,12 @@
 # my ignore list 
 
 update_git_repo.ps1
-
-
+LibraryArchive.txt
+.gitignore
+.gitignore
+.gitattributes
+update_git_repo.ps1
+DataForge.egg-info/
 
 
 # Byte-compiled / optimized / DLL files
