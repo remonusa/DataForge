@@ -146,5 +146,6 @@ Stay tuned for future updates!
 ## Contributing
 We welcome contributions from the community! If you would like to contribute, please feel free to open issues or submit pull requests.
 
-## License
-This library is licensed under the MIT License. See the `LICENSE` file for more details.
+
+This code is proprietary and not open for redistribution, modification, or use without explicit permission from the author.
+
